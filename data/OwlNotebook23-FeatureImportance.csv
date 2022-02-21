@@ -1,0 +1,1308 @@
+,importance,name
+703,0.028236281920463416,sensor1__standard_deviation
+646,0.02397646907170319,sensor1__maximum
+9,0.02078647742309808,sensor0__cid_ce__normalize_False
+702,0.020744876002645345,sensor1__variance
+13,0.01984911184015272,sensor0__abs_energy
+8,0.018246087216157978,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0"
+865,0.01732277162979522,sensor1__abs_energy
+1260,0.016285312454939253,sensor1__c3__lag_1
+29,0.014989144551447254,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2"
+117,0.014829095635260841,"sensor0__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)"
+567,0.014381750500099854,"sensor1__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)"
+27,0.014312809895109206,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4"
+74,0.014098597198914695,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2"
+129,0.013421288800051993,"sensor0__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)"
+1299,0.013105716214130472,sensor1__sum_values
+5,0.01300253105128683,"sensor0__linear_trend__attr_""stderr"""
+792,0.012837225845106446,"sensor1__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)"
+1273,0.012746796500247737,sensor1__quantile__q_0.9
+0,0.012559771657046312,"sensor0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var"""
+1298,0.012197326770537118,"sensor1__fft_coefficient__attr_""real""__coeff_0"
+1272,0.011525104908983475,"sensor1__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)"
+10,0.011512442621154917,"sensor0__fft_coefficient__attr_""abs""__coeff_3"
+2,0.01110706029140292,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0"
+989,0.010721073520645292,"sensor1__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)"
+42,0.010564382390331443,sensor1__time_reversal_asymmetry_statistic__lag_3
+595,0.010483375676811008,"sensor1__linear_trend__attr_""stderr"""
+165,0.010258469617213599,"sensor0__fft_coefficient__attr_""real""__coeff_0"
+155,0.010253557217065007,"sensor0__fft_coefficient__attr_""abs""__coeff_0"
+1040,0.009980363676749376,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2"
+108,0.009895476856013299,"sensor1__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20)"
+167,0.009727193348964774,sensor0__mean
+7,0.009290981108584725,sensor0__standard_deviation
+24,0.009197892948983964,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0"
+43,0.008150789570196892,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2"
+22,0.007832407668584418,sensor0__absolute_sum_of_changes
+1304,0.007743057498283875,"sensor1__fft_coefficient__attr_""abs""__coeff_0"
+582,0.007561572508086109,"sensor1__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)"
+40,0.00743023450114474,"sensor0__fft_coefficient__attr_""abs""__coeff_2"
+125,0.007393673287635172,"sensor0__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)"
+1110,0.007174058046856197,"sensor1__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)"
+724,0.0070941850825757356,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0"
+449,0.0070083652158401686,sensor1__cid_ce__normalize_False
+412,0.006962109766539975,"sensor1__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20)"
+221,0.006857805818964093,"sensor1__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20)"
+166,0.0068231715572823915,sensor0__sum_values
+856,0.00672112334230732,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2"
+725,0.006678541707632975,sensor1__mean_abs_change
+105,0.0066535433307243685,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0"
+1120,0.00664651318223527,"sensor1__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)"
+1208,0.006614075569866576,"sensor1__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)"
+1282,0.006603664688166271,"sensor1__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)"
+48,0.00659896445872027,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4"
+146,0.006433642046065852,"sensor1__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20)"
+107,0.006333803697597668,"sensor0__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20)"
+215,0.0061625998683367475,"sensor1__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20)"
+263,0.006124313667077421,"sensor1__fft_coefficient__attr_""abs""__coeff_3"
+192,0.006074457168436831,sensor1__time_reversal_asymmetry_statistic__lag_2
+866,0.0059719842810852805,sensor1__root_mean_square
+1100,0.005598380646219226,"sensor1__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)"
+12,0.005436838561895314,sensor0__root_mean_square
+68,0.0053575486438321015,sensor0__quantile__q_0.9
+52,0.0053083254739460396,"sensor0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean"""
+604,0.004968885549337505,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2"
+1218,0.004733025924950698,"sensor1__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)"
+23,0.004703727338073083,sensor0__mean_abs_change
+927,0.004640754218384223,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4"
+1002,0.004609746571223554,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4"
+1018,0.00460734938355432,"sensor1__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)"
+607,0.004137476824762735,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4"
+15,0.004130529421736224,sensor0__minimum
+142,0.004027558522360974,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0"
+77,0.0040022712029422645,"sensor0__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)"
+317,0.003884826065556005,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0"
+122,0.003870219241594721,"sensor0__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)"
+290,0.0038471410074416663,"sensor1__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20)"
+176,0.003824461341753559,sensor2__quantile__q_0.8
+1164,0.003788448576008108,"sensor1__fft_coefficient__attr_""abs""__coeff_1"
+70,0.0037202505276819264,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0"
+282,0.0036492786562172686,"sensor1__fft_coefficient__attr_""abs""__coeff_2"
+143,0.0036014411611016944,sensor2__absolute_sum_of_changes
+1189,0.0035879278991745468,"sensor1__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)"
+855,0.0035149630025529347,"sensor1__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)"
+4,0.003502886576753732,"sensor0__fft_coefficient__attr_""abs""__coeff_5"
+150,0.003442236484316358,sensor2__sum_values
+121,0.0034339969851578515,"sensor0__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)"
+94,0.003399101918931062,"sensor0__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)"
+131,0.0033842831621100173,"sensor0__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)"
+104,0.0033610331871202063,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min"""
+19,0.0033512567626922687,sensor0__quantile__q_0.1
+1297,0.003333219465319294,sensor1__mean
+153,0.0032101197708090307,"sensor0__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)"
+79,0.003167020417592249,"sensor0__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)"
+966,0.0031046577347472915,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2"
+14,0.003070872935516139,"sensor0__fft_coefficient__attr_""abs""__coeff_4"
+671,0.003053399828379483,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6"
+139,0.002951920382665013,"sensor0__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)"
+446,0.0028349725456693663,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0"
+723,0.0028041458102949514,sensor1__absolute_sum_of_changes
+348,0.002753450741562856,"sensor1__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20)"
+442,0.0026029385915749543,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6"
+320,0.002538086252355075,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0"
+236,0.002536578050120739,"sensor1__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20)"
+102,0.0024559656050232963,"sensor1__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)"
+887,0.0024524683231367424,sensor1__c3__lag_2
+185,0.002416682797960487,"sensor1__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20)"
+76,0.002376549028840406,sensor1__has_duplicate_max
+20,0.0023434639067426584,sensor0__spkt_welch_density__coeff_2
+420,0.002291806354867851,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4"
+36,0.002223939826129182,sensor1__last_location_of_minimum
+689,0.0021595049296717207,"sensor1__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)"
+61,0.0021182665373710263,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0"
+160,0.0021019059257153536,"sensor2__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)"
+668,0.0019958577608461857,sensor0__quantile__q_0.7
+144,0.0019858443358930795,sensor2__mean_abs_change
+6,0.0019164629789272206,sensor0__variance
+557,0.0018993394792692726,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6"
+84,0.0018503339161516977,sensor0__number_peaks__n_1
+11,0.0018443751229475125,sensor0__maximum
+988,0.0018344649703869106,"sensor1__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)"
+780,0.0017847268568978092,"sensor0__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)"
+92,0.00172570465620832,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean"""
+390,0.0016843575638958845,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4"
+277,0.0016418393901059896,"sensor2__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)"
+817,0.0015541430811553424,sensor3__standard_deviation
+956,0.001522503677214529,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var"""
+1090,0.0015207923898492362,sensor2__minimum
+626,0.001498866752485184,"sensor1__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean"""
+728,0.0014933528826671042,"sensor1__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)"
+326,0.0014879394910561807,sensor2__quantile__q_0.9
+377,0.0014674685082104503,"sensor1__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max"""
+158,0.0014668173497180428,"sensor1__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)"
+720,0.001427566572070066,sensor3__maximum
+431,0.0014116357148746443,sensor2__time_reversal_asymmetry_statistic__lag_3
+996,0.0014031568861105732,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2"
+816,0.0013819887019673592,sensor3__variance
+1217,0.0013436558254521084,sensor1__quantile__q_0.8
+515,0.0013397186038696441,"sensor2__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20)"
+95,0.0013288589678125602,"sensor1__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)"
+394,0.001306174558411017,"sensor2__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)"
+293,0.0013059629067252415,"sensor2__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)"
+78,0.0012623196419133556,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4"
+234,0.0012436398891500868,"sensor2__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)"
+847,0.0012420964347721118,"sensor3__linear_trend__attr_""stderr"""
+594,0.0011124772214242157,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max"""
+1266,0.0011035178876075463,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2"
+534,0.0010681084105035857,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max"""
+38,0.001061128972650956,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6"
+1,0.0010538141036418609,"sensor0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max"""
+598,0.0010450087333798495,sensor3__abs_energy
+113,0.0010365123256882139,"sensor0__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)"
+114,0.0010261443535272876,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2"
+271,0.0009992021649985027,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean"""
+71,0.0009920646445933361,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean"""
+697,0.0009657566775309392,sensor2__variance
+743,0.0009626171642145193,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2"
+194,0.0009620650608534574,"sensor2__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)"
+316,0.0009585457561692662,sensor2__cid_ce__normalize_False
+899,0.0009418101056487811,"sensor1__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)"
+307,0.0009181893216332287,"sensor2__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)"
+58,0.0009080667891527115,"sensor1__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)"
+611,0.0008974681227383543,"sensor1__fft_coefficient__attr_""abs""__coeff_4"
+505,0.0008550473188323244,"sensor3__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)"
+396,0.0008122120733600207,"sensor1__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)"
+353,0.000787184957298305,"sensor0__fft_coefficient__attr_""real""__coeff_3"
+510,0.0007634269072030914,sensor3__c3__lag_3
+60,0.0007620018597864807,sensor0__longest_strike_below_mean
+327,0.0007608154355084345,"sensor1__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)"
+467,0.0007438623863567997,"sensor0__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20)"
+67,0.0007391689129274199,"sensor0__fft_aggregated__aggtype_""variance"""
+168,0.0007374164694526717,"sensor2__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)"
+359,0.0007280757711928343,"sensor0__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20)"
+209,0.0007275383779890317,"sensor0__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)"
+21,0.0006690693370099365,"sensor0__fft_coefficient__attr_""abs""__coeff_6"
+465,0.000662525596235529,"sensor3__fft_coefficient__attr_""abs""__coeff_3"
+199,0.0006329402020327183,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2"
+508,0.0006158704228901838,"sensor3__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)"
+391,0.0006003482832293538,"sensor2__linear_trend__attr_""intercept"""
+331,0.0005961549693064517,"sensor2__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)"
+599,0.0005935589634429743,sensor3__root_mean_square
+375,0.0005751527960922625,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0"
+83,0.0005683312380358612,"sensor0__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)"
+355,0.000555874526309418,sensor3__absolute_sum_of_changes
+916,0.0005480940430110839,"sensor1__fft_coefficient__attr_""abs""__coeff_9"
+17,0.0005436609460289249,"sensor1__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)"
+356,0.0005355488746139684,sensor3__mean_abs_change
+700,0.0005343271839879875,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4"
+378,0.0005322277862365858,"sensor2__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)"
+35,0.0005254058837127983,"sensor1__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)"
+184,0.000520557698972125,"sensor0__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)"
+30,0.000514728094475373,"sensor1__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)"
+3,0.0005078359467786533,sensor0__spkt_welch_density__coeff_5
+1097,0.0005008896967962246,sensor1__skewness
+478,0.0004966789533636955,"sensor2__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)"
+940,0.0004938273464485929,sensor1__quantile__q_0.3
+222,0.0004911483331683016,sensor3__time_reversal_asymmetry_statistic__lag_3
+47,0.0004903021578243602,"sensor1__linear_trend__attr_""intercept"""
+100,0.000484606865153702,sensor0__skewness
+278,0.00048264146050789827,sensor1__quantile__q_0.1
+648,0.00047944645849260696,"sensor3__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)"
+609,0.0004785069581728393,sensor1__c3__lag_3
+368,0.000475554214566154,sensor0__time_reversal_asymmetry_statistic__lag_3
+468,0.00047505582396493713,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2"
+54,0.0004712525455520741,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean"""
+789,0.00046360803574071937,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean"""
+376,0.00046316458559059485,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max"""
+137,0.00046285644787481665,sensor0__quantile__q_0.3
+156,0.0004601389146364987,"sensor0__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)"
+1206,0.0004528102753813573,sensor1__quantile__q_0.7
+365,0.0004442712440529136,"sensor2__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20)"
+533,0.0004339801698307353,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2"
+26,0.0004278534000390823,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6"
+188,0.00042638267114064306,"sensor0__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20)"
+1245,0.00042338641014066843,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0"
+490,0.00041527832579829616,"sensor3__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)"
+610,0.0004139571212012676,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0"
+909,0.0004090332526297548,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0"
+37,0.00040834821033556803,sensor1__first_location_of_minimum
+25,0.00040725603159718493,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean"""
+91,0.000407024409819689,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min"""
+932,0.00040049578775010956,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var"""
+565,0.00039771605338660243,sensor3__skewness
+418,0.00039758829102559304,"sensor2__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)"
+964,0.0003962649068152484,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2"
+516,0.000394729767983494,sensor1__quantile__q_0.2
+265,0.0003926136938570316,sensor1__minimum
+39,0.0003898643700542283,"sensor0__fft_coefficient__attr_""abs""__coeff_7"
+596,0.0003761647046113557,"sensor3__linear_trend__attr_""intercept"""
+502,0.0003756540336364347,"sensor3__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)"
+605,0.00037480278860378365,sensor3__cid_ce__normalize_False
+56,0.00037161817416786827,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6"
+1302,0.00036972878691668117,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0"
+569,0.0003693840882975565,"sensor3__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)"
+89,0.0003663825189626989,"sensor0__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20)"
+51,0.0003611084684434875,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min"""
+354,0.00036064447338779096,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0"
+220,0.0003599290340591187,"sensor0__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20)"
+152,0.00035829892928433867,"sensor2__fft_coefficient__attr_""abs""__coeff_0"
+629,0.0003580430491869678,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var"""
+770,0.0003551184187687562,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4"
+55,0.0003515734748882207,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min"""
+80,0.0003512995754936268,"sensor0__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20)"
+335,0.00035098460525241344,sensor3__time_reversal_asymmetry_statistic__lag_2
+606,0.0003485011261223032,"sensor3__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)"
+818,0.00033921945833734245,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0"
+740,0.00033858713218766387,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var"""
+295,0.00033688109863032713,"sensor2__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)"
+1180,0.00033675762852612793,"sensor3__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var"""
+395,0.0003331314663586963,sensor2__partial_autocorrelation__lag_2
+315,0.0003316818023632712,"sensor2__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)"
+371,0.0003301048730512447,sensor0__c3__lag_1
+1283,0.00032905840148237905,sensor2__c3__lag_2
+730,0.0003265604830797454,"sensor0__linear_trend__attr_""intercept"""
+44,0.00032584263060056565,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8"
+257,0.0003233872790448729,"sensor0__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)"
+140,0.0003225508090698851,"sensor0__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20)"
+704,0.00032101981288096845,"sensor3__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)"
+1025,0.0003204874017401845,"sensor1__fft_coefficient__attr_""abs""__coeff_10"
+1194,0.00031972312153638035,"sensor3__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20)"
+655,0.00031820005815567584,sensor0__time_reversal_asymmetry_statistic__lag_1
+93,0.00031658825379360107,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2"
+216,0.0003146761813941651,"sensor2__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)"
+687,0.00031390985343314487,sensor0__time_reversal_asymmetry_statistic__lag_2
+64,0.00031017686734431373,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var"""
+1292,0.0003056715689711152,sensor1__variation_coefficient
+171,0.00030533490032239144,"sensor2__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)"
+306,0.0003014334354276625,sensor0__quantile__q_0.8
+103,0.000300789039661792,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0"
+705,0.00029967017310662336,"sensor1__fft_aggregated__aggtype_""kurtosis"""
+907,0.0002974213280375188,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0"
+90,0.0002963513226083917,sensor0__binned_entropy__max_bins_10
+270,0.00029592091081170674,sensor2__friedrich_coefficients__coeff_3__m_3__r_30
+727,0.00029534868770161583,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6"
+484,0.0002916969987963873,"sensor3__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)"
+149,0.00029056835615046334,sensor2__mean
+661,0.0002896573934351282,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min"""
+841,0.0002882326427807001,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2"
+311,0.00028688435069635504,"sensor1__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var"""
+1016,0.0002859197922228152,"sensor3__fft_coefficient__attr_""imag""__coeff_3"
+498,0.00028479577079138825,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2"
+16,0.000281273272591643,"sensor1__linear_trend__attr_""slope"""
+517,0.00028104176991168545,"sensor2__fft_coefficient__attr_""abs""__coeff_7"
+474,0.0002710493122017059,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6"
+373,0.0002701961867880815,sensor0__quantile__q_0.4
+157,0.0002656944817889686,"sensor0__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20)"
+828,0.00026311898268546724,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8"
+223,0.0002621959396215466,"sensor0__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20)"
+827,0.00025936989959526516,sensor1__quantile__q_0.4
+763,0.00025930579518405444,sensor2__maximum
+950,0.0002568345550756162,sensor2__partial_autocorrelation__lag_3
+1026,0.000256516787568569,sensor3__quantile__q_0.1
+151,0.00025602267473229115,"sensor2__fft_coefficient__attr_""real""__coeff_0"
+538,0.00025573162998439476,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4"
+342,0.00025514110632184387,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min"""
+1156,0.00025358053115201717,"sensor3__fft_coefficient__attr_""real""__coeff_3"
+434,0.0002494245642191957,"sensor3__fft_coefficient__attr_""abs""__coeff_0"
+170,0.0002482797839040339,sensor2__quantile__q_0.7
+133,0.00024685159700476076,sensor0__permutation_entropy__dimension_4__tau_1
+438,0.00024542816871831976,"sensor1__fft_coefficient__attr_""abs""__coeff_6"
+1041,0.00024236030115505676,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0"
+698,0.00024092245776536164,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var"""
+494,0.00023958064735843734,"sensor3__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)"
+1225,0.00023943032206711782,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8"
+1216,0.00023279766177317052,"sensor1__fft_coefficient__attr_""real""__coeff_10"
+650,0.00023186022378425333,sensor0__friedrich_coefficients__coeff_0__m_3__r_30
+1238,0.000230525070692502,sensor2__autocorrelation__lag_7
+523,0.00022674641316239273,"sensor3__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)"
+227,0.00022588398896864848,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0"
+1178,0.0002248285504731731,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8"
+1157,0.0002229008041893683,"sensor0__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20)"
+250,0.00022248291507598962,"sensor2__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)"
+1068,0.00022075825225782494,"sensor0__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)"
+219,0.0002201094678781615,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0"
+425,0.00021835084852099728,"sensor2__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)"
+667,0.00021646742551949076,"sensor2__linear_trend__attr_""stderr"""
+212,0.0002164636719245522,sensor0__kurtosis
+362,0.00021634246492687625,sensor2__autocorrelation__lag_1
+336,0.00021606131351737705,sensor1__last_location_of_maximum
+811,0.00021596048905116503,"sensor0__fft_coefficient__attr_""imag""__coeff_1"
+41,0.00021526604478105368,"sensor1__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20)"
+313,0.0002145808204877759,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max"""
+963,0.00021367439041501126,"sensor3__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)"
+256,0.00021140677942165897,"sensor0__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)"
+387,0.00021030574716128853,"sensor2__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)"
+972,0.00020932893875803737,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean"""
+402,0.00020838043924638626,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean"""
+148,0.0002083091868542703,"sensor0__fft_coefficient__attr_""abs""__coeff_9"
+1032,0.00020573705172029832,"sensor2__fft_coefficient__attr_""abs""__coeff_5"
+1065,0.00020367781105443814,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2"
+804,0.00020200977171845006,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2"
+200,0.00020148128408024223,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0"
+1021,0.00020136034641500766,"sensor3__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20)"
+563,0.0002007468992485223,sensor0__autocorrelation__lag_3
+53,0.0001985219970743509,"sensor1__linear_trend__attr_""rvalue"""
+547,0.00019715602680810164,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0"
+695,0.00019575707478630282,"sensor0__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)"
+225,0.00019521752794720985,"sensor2__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)"
+696,0.00019512275877390763,sensor2__standard_deviation
+334,0.00019392369422638393,"sensor0__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)"
+1306,0.00019205724856880674,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max"""
+119,0.00019038007812830174,sensor0__count_above_mean
+529,0.00018887464368933069,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min"""
+477,0.00018751305198247244,sensor1__index_mass_quantile__q_0.1
+829,0.00018733503696408761,sensor0__median
+921,0.0001871617877076888,"sensor3__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20)"
+1151,0.00018439589009812033,"sensor3__fft_coefficient__attr_""abs""__coeff_4"
+587,0.00018383326000442354,"sensor1__fft_aggregated__aggtype_""skew"""
+483,0.00018379572410430177,sensor0__autocorrelation__lag_8
+1150,0.00018262085461167823,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0"
+826,0.00018056359155476875,sensor3__c3__lag_1
+548,0.0001799344007462778,sensor2__root_mean_square
+752,0.00017978456195516637,sensor0__partial_autocorrelation__lag_3
+692,0.00017853458001639138,"sensor0__fft_aggregated__aggtype_""kurtosis"""
+1073,0.0001783161593673044,"sensor3__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20)"
+473,0.00017741695336344476,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var"""
+233,0.0001768061722832304,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0"
+421,0.00017655151322318457,sensor2__time_reversal_asymmetry_statistic__lag_2
+260,0.00017404187532627711,sensor1__spkt_welch_density__coeff_8
+235,0.00017259669540259137,sensor1__binned_entropy__max_bins_10
+868,0.0001722589454111377,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4"
+238,0.00017200879204615758,"sensor2__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)"
+414,0.0001716448103558814,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min"""
+1004,0.0001713107526462602,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0"
+670,0.00017070472257262045,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0"
+1165,0.00016954827187095158,"sensor3__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20)"
+1169,0.00016839280080197438,sensor0__c3__lag_3
+110,0.0001674448921637376,"sensor0__fft_coefficient__attr_""real""__coeff_1"
+196,0.00016725244584754606,"sensor1__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20)"
+81,0.0001669262901575295,"sensor1__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20)"
+511,0.00016559984670924978,"sensor2__fft_aggregated__aggtype_""skew"""
+328,0.00016500132530847307,"sensor0__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)"
+344,0.0001638273463511096,sensor2__permutation_entropy__dimension_4__tau_1
+455,0.0001635811916190757,sensor3__sum_values
+758,0.0001622153956160279,sensor3__autocorrelation__lag_3
+34,0.00016145453142588588,sensor0__quantile__q_0.2
+253,0.00016079407269278527,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2"
+50,0.00015999745777102865,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8"
+1204,0.00015781373887691115,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var"""
+183,0.00015733375943521432,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0"
+944,0.0001568425324675215,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0"
+979,0.0001567399078191948,"sensor1__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20)"
+350,0.000155633734506675,"sensor1__linear_trend__attr_""pvalue"""
+374,0.00015516376066913702,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean"""
+1291,0.00015496913006086486,sensor1__autocorrelation__lag_2
+1123,0.00015468538622099431,"sensor3__fft_coefficient__attr_""real""__coeff_1"
+775,0.0001538226452020746,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4"
+488,0.00015362306333615628,"sensor1__fft_coefficient__attr_""real""__coeff_3"
+154,0.00015354314381084793,"sensor0__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)"
+135,0.00015310729662720545,sensor2__variation_coefficient
+580,0.0001525636680333376,"sensor0__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)"
+370,0.0001522002324493503,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min"""
+1031,0.0001517355522355108,sensor3__friedrich_coefficients__coeff_0__m_3__r_30
+397,0.00015035424388595562,sensor0__ratio_beyond_r_sigma__r_0.5
+266,0.00014904140500989667,"sensor2__fft_coefficient__attr_""abs""__coeff_8"
+466,0.00014891089248314,"sensor0__fft_aggregated__aggtype_""centroid"""
+276,0.00014827350906023606,sensor0__cid_ce__normalize_True
+1281,0.00014706369037101877,sensor1__partial_autocorrelation__lag_5
+803,0.00014697406503552635,"sensor2__fft_coefficient__attr_""imag""__coeff_1"
+905,0.00014683719212806143,"sensor2__fft_aggregated__aggtype_""kurtosis"""
+1129,0.00014613947686046606,"sensor2__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20)"
+191,0.00014593990678907058,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_5
+777,0.0001455835155496869,sensor3__cid_ce__normalize_True
+392,0.0001445287279357268,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var"""
+1285,0.00014331742800213887,sensor1__range_count__max_1000000000000.0__min_0
+759,0.00014223482752827933,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max"""
+1267,0.0001414097418102486,sensor2__c3__lag_1
+294,0.00014121323074462583,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2"
+1126,0.0001405085001438906,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0"
+413,0.00014036434772701523,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4"
+302,0.00013989188896334714,sensor1__approximate_entropy__m_2__r_0.7
+551,0.00013936744425801476,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var"""
+627,0.00013912495467070094,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min"""
+641,0.00013869385928733774,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_9
+802,0.00013864196519415486,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8"
+1014,0.0001382768245465183,"sensor2__linear_trend__attr_""slope"""
+69,0.00013802598224579727,"sensor1__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min"""
+923,0.00013661289306808236,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0"
+1290,0.00013621104386389333,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2"
+526,0.0001360328167934151,"sensor3__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)"
+998,0.00013569066271880306,"sensor0__linear_trend__attr_""slope"""
+634,0.00013561253038697361,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean"""
+1301,0.00013530606354964514,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0"
+383,0.000135228967182308,"sensor0__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20)"
+304,0.00013419768588194896,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0"
+677,0.00013263564903714934,"sensor2__fft_aggregated__aggtype_""centroid"""
+388,0.00013176278702753443,sensor0__ar_coefficient__coeff_0__k_10
+145,0.000131135909007682,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_8
+1091,0.00013059654470186764,"sensor1__fft_coefficient__attr_""angle""__coeff_2"
+1200,0.000129934892291951,"sensor2__fft_coefficient__attr_""abs""__coeff_1"
+1265,0.00012837937189454527,sensor3__count_below__t_0
+1103,0.00012750004621200998,"sensor1__fft_coefficient__attr_""angle""__coeff_3"
+527,0.00012668042117843862,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2"
+1080,0.0001264826145070558,"sensor2__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max"""
+497,0.00012613268169983386,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2"
+264,0.0001252238853828701,"sensor2__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)"
+1239,0.00012468611673427916,"sensor1__fft_coefficient__attr_""real""__coeff_5"
+255,0.00012419938364597707,sensor1__spkt_welch_density__coeff_2
+857,0.00012336749846320665,"sensor3__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20)"
+173,0.00012274162259860158,"sensor2__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)"
+230,0.00012273801107071783,sensor1__autocorrelation__lag_4
+75,0.00012263372091863325,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0"
+617,0.00012261042517625073,sensor3__time_reversal_asymmetry_statistic__lag_1
+210,0.00012237968926223967,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2"
+202,0.00012226690789701858,"sensor2__fft_aggregated__aggtype_""variance"""
+454,0.00012198940895606269,"sensor1__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20)"
+299,0.00012041806945402407,sensor3__variation_coefficient
+1105,0.00012016356739670974,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8"
+261,0.00011826811241634227,sensor1__permutation_entropy__dimension_5__tau_1
+779,0.00011703604828307229,"sensor2__fft_coefficient__attr_""abs""__coeff_6"
+345,0.00011696657135554632,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2"
+1121,0.00011676830427234275,sensor3__ratio_beyond_r_sigma__r_1
+247,0.00011619380915349969,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2"
+1191,0.00011541572297206412,sensor2__autocorrelation__lag_6
+885,0.00011539953393215374,sensor0__approximate_entropy__m_2__r_0.5
+990,0.00011530518295588527,sensor2__count_below__t_0
+201,0.00011419935923859366,sensor2__number_crossing_m__m_0
+1102,0.00011392071631309808,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2"
+675,0.00011357794539613976,"sensor3__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)"
+405,0.00011189898321489874,"sensor2__fft_coefficient__attr_""abs""__coeff_10"
+992,0.0001105748994388095,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_6
+640,0.00011038273882012536,"sensor3__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)"
+620,0.00011036295744287002,"sensor2__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20)"
+284,0.00011018276977874125,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6"
+1196,0.00010987221923134439,"sensor2__fft_coefficient__attr_""imag""__coeff_3"
+785,0.00010969811862556164,"sensor3__fft_coefficient__attr_""real""__coeff_8"
+1240,0.00010968413451603456,"sensor1__agg_autocorrelation__f_agg_""var""__maxlag_40"
+912,0.0001091394917081762,"sensor0__fft_coefficient__attr_""imag""__coeff_4"
+973,0.00010910013584489956,"sensor0__fft_coefficient__attr_""imag""__coeff_5"
+1089,0.00010844272822375505,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8"
+678,0.00010812095140479406,sensor2__ar_coefficient__coeff_0__k_10
+1127,0.0001078975840603571,sensor3__friedrich_coefficients__coeff_1__m_3__r_30
+123,0.00010787265515910065,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max"""
+875,0.00010703230765327009,"sensor2__fft_coefficient__attr_""real""__coeff_9"
+830,0.00010685408252070346,sensor0__autocorrelation__lag_5
+1134,0.00010651777622364815,"sensor0__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20)"
+928,0.00010640289235265894,"sensor3__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20)"
+1190,0.00010604313916374443,sensor1__max_langevin_fixed_point__m_3__r_30
+482,0.00010561726296094111,"sensor0__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)"
+1160,0.00010453847191924544,"sensor1__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)"
+1149,0.00010450809367057921,sensor1__kurtosis
+174,0.00010441411249252241,"sensor0__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)"
+975,0.0001038660885058918,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0"
+796,0.0001033748872800156,sensor0__autocorrelation__lag_7
+308,0.0001031076562649337,"sensor1__fft_coefficient__attr_""abs""__coeff_5"
+1057,0.00010290479910408126,"sensor1__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20)"
+665,0.00010214251673672662,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2"
+914,0.00010213871903365186,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4"
+440,0.00010179442472389822,sensor2__spkt_welch_density__coeff_8
+1170,0.0001015554107167702,"sensor1__fft_coefficient__attr_""real""__coeff_7"
+72,0.00010150251176958478,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min"""
+229,0.00010133109507971353,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6"
+88,0.00010102088109474368,"sensor0__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20)"
+28,0.00010095739811788847,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var"""
+1047,0.00010071025236242045,"sensor3__fft_coefficient__attr_""abs""__coeff_1"
+870,0.00010001594325839202,sensor0__mean_second_derivative_central
+684,9.973070338979279e-05,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_2
+922,9.960749124709449e-05,sensor0__friedrich_coefficients__coeff_3__m_3__r_30
+929,9.92699707636648e-05,"sensor2__agg_autocorrelation__f_agg_""mean""__maxlag_40"
+448,9.9210294560523e-05,sensor2__cid_ce__normalize_True
+242,9.919363749553829e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2"
+806,9.880799814149477e-05,"sensor2__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20)"
+87,9.81077792628751e-05,sensor1__large_standard_deviation__r_0.30000000000000004
+624,9.798582033728095e-05,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max"""
+351,9.769236025315986e-05,sensor3__partial_autocorrelation__lag_2
+788,9.737683506163331e-05,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var"""
+889,9.622532032693798e-05,"sensor3__fft_coefficient__attr_""imag""__coeff_4"
+890,9.60495126959275e-05,sensor0__partial_autocorrelation__lag_5
+254,9.600165982680786e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0"
+718,9.585955285600995e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4"
+204,9.547591109042026e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0"
+283,9.482099824311769e-05,sensor3__autocorrelation__lag_7
+330,9.428043706787772e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4"
+232,9.403888022002902e-05,"sensor1__fft_coefficient__attr_""real""__coeff_2"
+181,9.354247347026466e-05,"sensor0__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)"
+1074,9.348191287452331e-05,sensor3__index_mass_quantile__q_0.2
+623,9.330764571914143e-05,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_5
+542,9.32631908428318e-05,"sensor3__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)"
+618,9.312753174245467e-05,sensor3__spkt_welch_density__coeff_8
+1287,9.298103838746558e-05,sensor1__count_below__t_0
+417,9.293681993841279e-05,sensor2__first_location_of_minimum
+1215,9.218538665896483e-05,"sensor3__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20)"
+746,9.152949796029425e-05,"sensor0__fft_coefficient__attr_""real""__coeff_6"
+574,9.129407079322107e-05,sensor1__friedrich_coefficients__coeff_1__m_3__r_30
+18,9.065744838252314e-05,"sensor1__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)"
+674,9.025471881894212e-05,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_6
+1284,9.006745073941246e-05,"sensor3__fft_coefficient__attr_""imag""__coeff_6"
+636,8.997995728863728e-05,sensor3__number_peaks__n_1
+268,8.989462676602194e-05,"sensor3__fft_aggregated__aggtype_""variance"""
+111,8.98768102583001e-05,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min"""
+419,8.977237378468415e-05,"sensor2__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20)"
+1066,8.913654808280243e-05,"sensor3__linear_trend__attr_""pvalue"""
+1000,8.875055304962957e-05,"sensor3__fft_aggregated__aggtype_""centroid"""
+938,8.811069616117762e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0"
+252,8.799242396475757e-05,"sensor1__fft_coefficient__attr_""real""__coeff_1"
+880,8.778027794296002e-05,sensor3__approximate_entropy__m_2__r_0.9
+933,8.760428980915454e-05,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max"""
+639,8.741934454183237e-05,sensor3__partial_autocorrelation__lag_1
+721,8.736869857679272e-05,"sensor3__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)"
+1133,8.736112150841972e-05,sensor1__median
+1092,8.672877111922918e-05,sensor2__autocorrelation__lag_2
+1112,8.668757676852192e-05,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_1
+549,8.601240859957863e-05,sensor2__abs_energy
+794,8.587322749818963e-05,"sensor0__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)"
+1263,8.513824790996515e-05,"sensor2__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min"""
+1243,8.509196685883865e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4"
+849,8.508180591050926e-05,sensor2__benford_correlation
+701,8.430411371081824e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0"
+175,8.408030930594485e-05,"sensor0__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)"
+403,8.392055981463163e-05,sensor3__quantile__q_0.9
+782,8.371499165474175e-05,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_2
+539,8.357231719666044e-05,sensor3__index_mass_quantile__q_0.7
+116,8.346200719690495e-05,sensor0__permutation_entropy__dimension_3__tau_1
+622,8.344528149155477e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4"
+968,8.27437917321538e-05,sensor2__range_count__max_1000000000000.0__min_0
+1195,8.24935078072194e-05,"sensor1__fft_coefficient__attr_""real""__coeff_8"
+851,8.191133090043183e-05,"sensor2__fft_coefficient__attr_""angle""__coeff_1"
+1037,8.175342218013127e-05,sensor1__longest_strike_above_mean
+1060,8.15762519765159e-05,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean"""
+586,8.145610535602446e-05,sensor3__autocorrelation__lag_6
+296,8.1382567006783e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2"
+946,8.102922886228126e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2"
+1101,7.98938189966592e-05,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max"""
+1053,7.985314423165294e-05,sensor2__quantile__q_0.1
+325,7.970379378588631e-05,sensor0__sum_of_reoccurring_values
+96,7.935106082344554e-05,sensor1__number_peaks__n_1
+332,7.909251540427431e-05,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min"""
+333,7.901723067596901e-05,"sensor3__fft_coefficient__attr_""abs""__coeff_8"
+879,7.855403112733058e-05,"sensor2__linear_trend__attr_""rvalue"""
+1141,7.738815515497777e-05,"sensor0__fft_coefficient__attr_""imag""__coeff_2"
+1153,7.684424894719628e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max"""
+583,7.648330112405254e-05,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min"""
+769,7.645070904730851e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0"
+1072,7.63676802364739e-05,"sensor2__fft_coefficient__attr_""angle""__coeff_5"
+132,7.623968712623799e-05,"sensor1__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)"
+366,7.615735573940496e-05,"sensor1__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20)"
+1212,7.604401072137353e-05,sensor3__friedrich_coefficients__coeff_2__m_3__r_30
+1171,7.577276178001655e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6"
+120,7.572217171609399e-05,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max"""
+109,7.560854591306279e-05,"sensor0__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20)"
+118,7.529611552717507e-05,sensor0__count_below_mean
+489,7.524555250073973e-05,"sensor3__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)"
+1244,7.496712628987326e-05,sensor2__mean_change
+653,7.490737751200136e-05,"sensor2__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20)"
+625,7.472785545925913e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8"
+1109,7.459056730907902e-05,sensor3__quantile__q_0.4
+722,7.415198503269348e-05,"sensor0__fft_coefficient__attr_""real""__coeff_5"
+860,7.270745294873427e-05,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean"""
+393,7.264283620355766e-05,sensor3__quantile__q_0.8
+588,7.261027792422824e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2"
+812,7.252386894018886e-05,"sensor3__fft_coefficient__attr_""abs""__coeff_6"
+850,7.240731255398259e-05,sensor3__longest_strike_above_mean
+651,7.202134757764307e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0"
+62,7.177720121969573e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8"
+130,7.169081198243572e-05,sensor1__partial_autocorrelation__lag_2
+1042,7.150890576499276e-05,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max"""
+380,7.144631738098385e-05,"sensor3__fft_coefficient__attr_""abs""__coeff_7"
+867,7.141821101930568e-05,sensor3__kurtosis
+953,7.137469028087369e-05,sensor3__median
+513,7.122302469160726e-05,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min"""
+364,7.089123438078343e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0"
+676,7.085431879434782e-05,"sensor3__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)"
+193,7.061223853596257e-05,"sensor3__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min"""
+578,7.05968512369344e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean"""
+1277,7.030854956378852e-05,"sensor2__fft_coefficient__attr_""angle""__coeff_3"
+554,6.977689440796261e-05,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_9
+99,6.943385457982765e-05,"sensor0__fft_coefficient__attr_""abs""__coeff_8"
+459,6.93903109556423e-05,sensor1__lempel_ziv_complexity__bins_10
+941,6.934922579948573e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4"
+214,6.921354730692457e-05,sensor0__first_location_of_minimum
+386,6.911858448511085e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2"
+329,6.899230307130486e-05,"sensor0__agg_autocorrelation__f_agg_""median""__maxlag_40"
+1029,6.895899586903571e-05,"sensor2__fft_coefficient__attr_""real""__coeff_3"
+1071,6.868649227922643e-05,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean"""
+457,6.82874364765062e-05,sensor3__mean
+962,6.826076234423521e-05,"sensor2__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20)"
+291,6.822694124787542e-05,sensor3__autocorrelation__lag_8
+573,6.756125202402058e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8"
+913,6.70678363137425e-05,"sensor3__fft_coefficient__attr_""angle""__coeff_1"
+1055,6.685968423139328e-05,"sensor3__fft_coefficient__attr_""imag""__coeff_1"
+735,6.637722005839984e-05,sensor3__quantile__q_0.6
+808,6.591470995937215e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0"
+279,6.590593490050875e-05,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_8
+217,6.583549834947494e-05,sensor0__ratio_beyond_r_sigma__r_1
+243,6.581590338001483e-05,"sensor1__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min"""
+891,6.542667656729414e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max"""
+1104,6.506017443693514e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8"
+1136,6.465174865068835e-05,sensor3__ar_coefficient__coeff_5__k_10
+1079,6.45948207585836e-05,sensor1__autocorrelation__lag_7
+1256,6.409906009143034e-05,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean"""
+501,6.39058624417113e-05,sensor0__ratio_beyond_r_sigma__r_1.5
+1242,6.389055790425398e-05,"sensor2__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var"""
+491,6.381486640499012e-05,"sensor1__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20)"
+433,6.373256092062548e-05,sensor3__index_mass_quantile__q_0.9
+882,6.360117242042988e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6"
+347,6.355092186565766e-05,sensor1__time_reversal_asymmetry_statistic__lag_1
+1258,6.322597766389252e-05,sensor0__longest_strike_above_mean
+660,6.320568231396924e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean"""
+585,6.29972980081777e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2"
+757,6.27015894244784e-05,"sensor3__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)"
+719,6.26457786961925e-05,"sensor3__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)"
+546,6.222975860332527e-05,sensor2__ratio_beyond_r_sigma__r_0.5
+1253,6.220349342869745e-05,sensor2__partial_autocorrelation__lag_6
+493,6.216126629829571e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0"
+273,6.205646877228247e-05,sensor1__autocorrelation__lag_5
+46,6.203581097244742e-05,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max"""
+991,6.192819031874749e-05,sensor1__partial_autocorrelation__lag_6
+1050,6.185691095210325e-05,sensor3__quantile__q_0.2
+303,6.1692410550676e-05,"sensor2__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)"
+895,6.162475937775483e-05,sensor1__autocorrelation__lag_9
+821,6.148287293806266e-05,"sensor2__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20)"
+1012,6.127436545802575e-05,"sensor3__linear_trend__attr_""slope"""
+577,6.122690460924474e-05,sensor3__friedrich_coefficients__coeff_3__m_3__r_30
+1048,6.074195375125989e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var"""
+903,6.0429087359908146e-05,"sensor3__fft_coefficient__attr_""real""__coeff_10"
+458,6.0379030074623414e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0"
+1155,6.011690857433534e-05,"sensor3__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20)"
+1045,5.978344899059483e-05,sensor1__ar_coefficient__coeff_10__k_10
+280,5.973854869152764e-05,"sensor3__fft_coefficient__attr_""abs""__coeff_9"
+878,5.9725713038865204e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0"
+825,5.9086996234337514e-05,sensor3__partial_autocorrelation__lag_6
+1181,5.880236329337322e-05,sensor0__ar_coefficient__coeff_6__k_10
+1202,5.856507812973444e-05,"sensor1__fft_coefficient__attr_""real""__coeff_4"
+669,5.846800487844167e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6"
+1268,5.8157931999887096e-05,sensor3__mean_second_derivative_central
+443,5.804248307813844e-05,sensor3__spkt_welch_density__coeff_5
+475,5.714247390319089e-05,"sensor0__fft_coefficient__attr_""angle""__coeff_2"
+32,5.712001330572944e-05,"sensor1__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)"
+1168,5.6985688300686104e-05,"sensor2__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20)"
+1167,5.693831880024213e-05,sensor2__autocorrelation__lag_4
+1278,5.678704665073396e-05,sensor3__ar_coefficient__coeff_0__k_10
+179,5.653733447127677e-05,sensor1__permutation_entropy__dimension_4__tau_1
+920,5.64844278191804e-05,sensor2__ar_coefficient__coeff_7__k_10
+1056,5.618235126400684e-05,sensor2__time_reversal_asymmetry_statistic__lag_1
+831,5.608634815722937e-05,"sensor3__agg_autocorrelation__f_agg_""var""__maxlag_40"
+619,5.57885035289956e-05,sensor2__mean_second_derivative_central
+1094,5.5764156559579886e-05,"sensor2__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var"""
+1070,5.570399547808339e-05,sensor3__spkt_welch_density__coeff_2
+1236,5.56114776581259e-05,"sensor3__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20)"
+1259,5.5414040874829036e-05,sensor2__ar_coefficient__coeff_2__k_10
+840,5.511885353264442e-05,sensor1__approximate_entropy__m_2__r_0.5
+1224,5.498474139829729e-05,sensor0__autocorrelation__lag_9
+615,5.493553623833083e-05,sensor2__autocorrelation__lag_9
+753,5.468620549616534e-05,sensor1__ar_coefficient__coeff_4__k_10
+532,5.331179614298671e-05,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_8
+177,5.3143081491825816e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2"
+521,5.3091503647998094e-05,"sensor0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean"""
+764,5.242115846786539e-05,sensor2__number_cwt_peaks__n_5
+249,5.23336816212223e-05,"sensor1__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20)"
+559,5.20943666475752e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4"
+518,5.2074063746381386e-05,sensor2__ar_coefficient__coeff_1__k_10
+343,5.186349174885956e-05,sensor0__index_mass_quantile__q_0.7
+791,5.1401216972622186e-05,"sensor2__fft_coefficient__attr_""angle""__coeff_2"
+401,5.11562199303876e-05,sensor2__quantile__q_0.4
+461,5.0904765445773076e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2"
+978,5.0514264014672915e-05,"sensor2__fft_coefficient__attr_""imag""__coeff_4"
+908,5.032190027935621e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0"
+877,5.0317453714909135e-05,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_3
+649,5.0313462965305596e-05,sensor0__variation_coefficient
+602,4.9992466400453264e-05,sensor2__index_mass_quantile__q_0.6
+411,4.9838513450885446e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4"
+85,4.983808147705011e-05,"sensor0__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20)"
+1062,4.9670500273492226e-05,"sensor3__fft_coefficient__attr_""imag""__coeff_2"
+864,4.955683516955234e-05,sensor1__index_mass_quantile__q_0.8
+309,4.9242179507193636e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4"
+787,4.900190626502529e-05,sensor3__approximate_entropy__m_2__r_0.3
+1075,4.892688782830203e-05,sensor2__fourier_entropy__bins_100
+240,4.886527748513673e-05,sensor0__partial_autocorrelation__lag_1
+982,4.872199172099287e-05,sensor3__fourier_entropy__bins_5
+1184,4.8604455339539414e-05,sensor2__approximate_entropy__m_2__r_0.7
+45,4.8175472889403985e-05,"sensor1__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)"
+790,4.764010241669378e-05,"sensor3__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)"
+82,4.758705512509514e-05,sensor0__max_langevin_fixed_point__m_3__r_30
+711,4.7498140737591636e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0"
+892,4.746816447380389e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6"
+744,4.742917198897422e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0"
+1076,4.740784504815656e-05,sensor1__fourier_entropy__bins_5
+310,4.720573865063759e-05,"sensor0__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20)"
+384,4.7110740630649774e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0"
+714,4.69816917469902e-05,"sensor0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min"""
+970,4.6925179756149624e-05,sensor0__fourier_entropy__bins_5
+239,4.6923780356803764e-05,sensor1__spkt_welch_density__coeff_5
+768,4.68848736477098e-05,"sensor2__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20)"
+707,4.6700248365311644e-05,sensor1__count_below_mean
+1303,4.644366140907268e-05,sensor3__partial_autocorrelation__lag_4
+292,4.6439790185312006e-05,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_0
+708,4.613968366097979e-05,sensor2__binned_entropy__max_bins_10
+980,4.5803930942145185e-05,"sensor3__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20)"
+560,4.571467516826283e-05,sensor1__index_mass_quantile__q_0.6
+734,4.564812312010075e-05,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var"""
+949,4.5642473919576896e-05,"sensor2__fft_coefficient__attr_""real""__coeff_7"
+147,4.5441783842406924e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2"
+699,4.543286337606342e-05,"sensor1__fft_aggregated__aggtype_""centroid"""
+476,4.529917322072581e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0"
+682,4.506382609840549e-05,"sensor3__fft_aggregated__aggtype_""kurtosis"""
+500,4.500650722450356e-05,sensor2__approximate_entropy__m_2__r_0.3
+530,4.479227527744309e-05,"sensor3__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)"
+751,4.444371067570515e-05,sensor2__symmetry_looking__r_0.1
+1175,4.4370017445303086e-05,sensor3__ar_coefficient__coeff_8__k_10
+1001,4.425436216743073e-05,sensor3__fourier_entropy__bins_10
+57,4.401850304999541e-05,"sensor0__fft_coefficient__attr_""abs""__coeff_1"
+1305,4.3794126923768954e-05,"sensor3__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20)"
+805,4.366706820856988e-05,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_7
+237,4.3468045603582425e-05,"sensor2__fft_coefficient__attr_""abs""__coeff_9"
+211,4.340817568537846e-05,sensor0__lempel_ziv_complexity__bins_5
+127,4.2857498538963306e-05,sensor0__count_above__t_0
+781,4.2766165645045176e-05,sensor1__ar_coefficient__coeff_6__k_10
+948,4.267700517755588e-05,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max"""
+1085,4.248549287886925e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0"
+1024,4.243723751139986e-05,sensor2__last_location_of_maximum
+778,4.229928890802349e-05,"sensor3__fft_coefficient__attr_""real""__coeff_4"
+1139,4.218567803097819e-05,"sensor0__fft_coefficient__attr_""real""__coeff_8"
+717,4.198400035222963e-05,sensor3__max_langevin_fixed_point__m_3__r_30
+749,4.1677453413788205e-05,"sensor3__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC"""
+550,4.136742683238558e-05,"sensor3__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)"
+432,4.109572741142693e-05,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min"""
+244,4.107897945272551e-05,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_5
+836,4.098153806307735e-05,"sensor2__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20)"
+245,4.0783989050378787e-05,sensor1__permutation_entropy__dimension_6__tau_1
+823,3.9942686108688274e-05,sensor2__quantile__q_0.3
+258,3.980609432406287e-05,sensor0__permutation_entropy__dimension_6__tau_1
+1254,3.96218853866594e-05,"sensor3__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20)"
+666,3.949100183174201e-05,"sensor0__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20)"
+839,3.947246400666072e-05,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_0
+1274,3.920845966542833e-05,sensor2__index_mass_quantile__q_0.1
+1099,3.900074687247152e-05,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean"""
+1247,3.897948156400414e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6"
+272,3.8972321496543274e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2"
+543,3.887364222346629e-05,"sensor3__fft_coefficient__attr_""abs""__coeff_10"
+398,3.885412760949655e-05,sensor0__autocorrelation__lag_4
+427,3.870760385557666e-05,sensor1__index_mass_quantile__q_0.3
+436,3.8513413465827896e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0"
+664,3.841591250516711e-05,"sensor2__fft_coefficient__attr_""real""__coeff_2"
+589,3.838922987973212e-05,sensor1__autocorrelation__lag_1
+1146,3.805899769345093e-05,"sensor2__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean"""
+285,3.79868281179756e-05,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var"""
+872,3.7713849874467286e-05,sensor0__partial_autocorrelation__lag_4
+838,3.7669956448958826e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2"
+1223,3.7666462155871666e-05,sensor1__quantile__q_0.6
+506,3.762058682631788e-05,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var"""
+874,3.7494486708070714e-05,sensor2__kurtosis
+652,3.7024642424055064e-05,sensor0__mean_change
+507,3.696513862547093e-05,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_4
+709,3.676912501623397e-05,sensor2__lempel_ziv_complexity__bins_5
+1205,3.663206061110192e-05,"sensor0__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20)"
+186,3.6621937644676766e-05,sensor1__sample_entropy
+984,3.627551743661006e-05,"sensor2__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20)"
+136,3.605572130142956e-05,"sensor1__fft_coefficient__attr_""angle""__coeff_1"
+134,3.6013551957792374e-05,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_9
+361,3.594617009800283e-05,sensor2__partial_autocorrelation__lag_1
+471,3.5860808040805124e-05,"sensor3__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)"
+1069,3.558762061935238e-05,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_3
+799,3.555048360146185e-05,sensor1__benford_correlation
+535,3.5548805043340156e-05,"sensor1__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20)"
+745,3.5512031533663906e-05,sensor1__approximate_entropy__m_2__r_0.3
+444,3.4667092221331746e-05,"sensor1__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20)"
+631,3.3831261269811174e-05,"sensor3__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)"
+218,3.354267033723332e-05,"sensor0__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)"
+967,3.3537428650817594e-05,sensor2__count_above__t_0
+645,3.262524373602015e-05,sensor3__permutation_entropy__dimension_3__tau_1
+590,3.212182842599197e-05,sensor1__partial_autocorrelation__lag_1
+453,3.1996813722439605e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2"
+1049,3.199307678242698e-05,"sensor3__fft_coefficient__attr_""real""__coeff_7"
+363,3.199307678242698e-05,"sensor0__fft_aggregated__aggtype_""skew"""
+965,3.188613532666995e-05,"sensor2__fft_coefficient__attr_""imag""__coeff_7"
+837,3.185620232365694e-05,sensor0__large_standard_deviation__r_0.2
+416,3.179369389290155e-05,sensor2__last_location_of_minimum
+1130,3.171413255577686e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2"
+900,3.1612280962690384e-05,sensor2__friedrich_coefficients__coeff_0__m_3__r_30
+845,3.155731462643444e-05,"sensor2__fft_coefficient__attr_""real""__coeff_8"
+520,3.154639674601529e-05,sensor3__first_location_of_maximum
+298,3.1509043760517677e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0"
+943,3.1474185189743854e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8"
+389,3.145495299018012e-05,sensor1__lempel_ziv_complexity__bins_5
+1009,3.139154813762194e-05,sensor3__count_below_mean
+936,3.1377755423332715e-05,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max"""
+809,3.136457369475505e-05,sensor1__mean_second_derivative_central
+930,3.130598843988712e-05,"sensor0__fft_coefficient__attr_""imag""__coeff_3"
+797,3.127337541787735e-05,sensor2__ar_coefficient__coeff_8__k_10
+462,3.126976445078672e-05,"sensor0__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20)"
+1241,3.1236069695939324e-05,sensor3__autocorrelation__lag_2
+169,3.1220022763800945e-05,"sensor1__fft_aggregated__aggtype_""variance"""
+852,3.117330735133734e-05,sensor1__partial_autocorrelation__lag_3
+1193,3.104829469291909e-05,"sensor3__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)"
+1082,3.095359715185404e-05,sensor3__lempel_ziv_complexity__bins_3
+180,3.0811537375824056e-05,"sensor0__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20)"
+955,3.075119306922439e-05,"sensor0__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)"
+1203,3.070394404668419e-05,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_3
+360,3.0647645720812344e-05,sensor2__friedrich_coefficients__coeff_2__m_3__r_30
+379,3.055369200863597e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0"
+138,3.0529850237941594e-05,sensor2__number_peaks__n_1
+614,3.0472462036198162e-05,"sensor2__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)"
+732,3.0297169409260323e-05,"sensor0__agg_autocorrelation__f_agg_""var""__maxlag_40"
+767,3.0284160025053755e-05,sensor3__permutation_entropy__dimension_4__tau_1
+926,3.025411668778608e-05,sensor3__approximate_entropy__m_2__r_0.1
+287,3.0137754819594147e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0"
+1128,3.0135149089501048e-05,sensor3__ar_coefficient__coeff_4__k_10
+1276,3.0112544787447663e-05,"sensor2__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20)"
+509,2.9989633744792942e-05,"sensor3__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)"
+853,2.996382332534827e-05,"sensor1__fft_coefficient__attr_""imag""__coeff_7"
+1295,2.990753134384457e-05,sensor0__ar_coefficient__coeff_7__k_10
+1122,2.984582929392257e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4"
+213,2.980569837021869e-05,sensor0__last_location_of_minimum
+369,2.9707826460211684e-05,sensor3__index_mass_quantile__q_0.8
+337,2.969770301023963e-05,sensor1__mean_change
+528,2.9674236914900452e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6"
+807,2.9570929136497697e-05,sensor3__number_peaks__n_5
+406,2.9487320885509615e-05,sensor0__ratio_value_number_to_time_series_length
+691,2.9441479671078246e-05,sensor3__index_mass_quantile__q_0.6
+1011,2.9346072709781402e-05,"sensor1__fft_coefficient__attr_""imag""__coeff_3"
+848,2.9318604682504954e-05,sensor2__ar_coefficient__coeff_6__k_10
+824,2.921107010569419e-05,sensor3__partial_autocorrelation__lag_5
+324,2.8714088562954225e-05,sensor0__sum_of_reoccurring_data_points
+715,2.8628766135006975e-05,"sensor2__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)"
+876,2.8148305996227152e-05,sensor1__ar_coefficient__coeff_3__k_10
+1148,2.7969541035351126e-05,sensor3__ar_coefficient__coeff_7__k_10
+601,2.784767798773657e-05,"sensor1__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20)"
+1145,2.7785757303495784e-05,sensor3__approximate_entropy__m_2__r_0.7
+106,2.774677763758156e-05,"sensor0__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)"
+694,2.751046734044354e-05,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_3
+832,2.7471025753470142e-05,sensor2__quantile__q_0.2
+536,2.745767557877198e-05,sensor2__longest_strike_above_mean
+1138,2.7453307334928973e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0"
+1023,2.7429096701518434e-05,sensor2__first_location_of_maximum
+226,2.7420878485522938e-05,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_9
+382,2.7379360388782795e-05,sensor3__autocorrelation__lag_9
+662,2.718000866814705e-05,"sensor2__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)"
+495,2.7179425731684842e-05,sensor0__ar_coefficient__coeff_1__k_10
+1280,2.7151474767530673e-05,"sensor3__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20)"
+305,2.7052112042139043e-05,sensor0__ratio_beyond_r_sigma__r_2.5
+760,2.7048017387098393e-05,sensor1__partial_autocorrelation__lag_4
+995,2.6807074709579922e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0"
+540,2.6332300636030015e-05,sensor3__permutation_entropy__dimension_5__tau_1
+902,2.6200658823135888e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2"
+1052,2.6171844375415874e-05,sensor1__ar_coefficient__coeff_5__k_10
+1088,2.6161063120885528e-05,"sensor3__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20)"
+319,2.6036919214101462e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4"
+871,2.5695190609184368e-05,sensor1__partial_autocorrelation__lag_9
+1077,2.5604766934296327e-05,"sensor3__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20)"
+472,2.5590247833739957e-05,sensor0__ratio_beyond_r_sigma__r_2
+1207,2.4900309353933087e-05,"sensor1__fft_coefficient__attr_""angle""__coeff_5"
+1115,2.4861512956010934e-05,"sensor0__fft_coefficient__attr_""angle""__coeff_3"
+357,2.4859634558908847e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0"
+918,2.483843031844115e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4"
+947,2.4823687541178927e-05,"sensor0__linear_trend__attr_""rvalue"""
+479,2.4025466131425486e-05,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var"""
+886,2.4002982108392432e-05,"sensor0__fft_coefficient__attr_""real""__coeff_4"
+564,2.3994807586820233e-05,"sensor2__fft_coefficient__attr_""real""__coeff_1"
+793,2.398603613647304e-05,sensor0__approximate_entropy__m_2__r_0.3
+786,2.3985031416086785e-05,"sensor3__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20)"
+1132,2.3716162712517716e-05,sensor0__partial_autocorrelation__lag_9
+1201,2.3550119429892564e-05,"sensor3__fft_coefficient__attr_""imag""__coeff_5"
+815,2.337167162893363e-05,"sensor2__fft_coefficient__attr_""abs""__coeff_4"
+1152,2.335072574732564e-05,sensor3__quantile__q_0.3
+774,2.2925345416769336e-05,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max"""
+1222,2.2873591036071013e-05,sensor1__ratio_beyond_r_sigma__r_2
+73,2.2653877784387143e-05,sensor0__index_mass_quantile__q_0.9
+486,2.26457181608893e-05,"sensor3__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min"""
+713,2.2644937953651673e-05,sensor1__autocorrelation__lag_8
+712,2.2578080848609413e-05,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var"""
+800,2.168031539378286e-05,"sensor3__fft_coefficient__attr_""imag""__coeff_7"
+1111,2.1405232368784864e-05,"sensor2__fft_coefficient__attr_""abs""__coeff_2"
+1098,2.13283355252667e-05,sensor2__friedrich_coefficients__coeff_1__m_3__r_30
+1058,2.130090394994096e-05,sensor2__large_standard_deviation__r_0.25
+128,2.1176876129848787e-05,sensor0__range_count__max_1000000000000.0__min_0
+450,2.1164721255234007e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2"
+1035,2.079084194988168e-05,"sensor2__fft_coefficient__attr_""real""__coeff_4"
+322,2.0568568374682877e-05,sensor2__permutation_entropy__dimension_3__tau_1
+983,2.0524686384243603e-05,sensor0__benford_correlation
+572,1.927309705559518e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4"
+783,1.9221091438217303e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0"
+633,1.9218328143464645e-05,"sensor1__fft_coefficient__attr_""imag""__coeff_2"
+736,1.9204541971865516e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0"
+1118,1.9197261144789396e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4"
+1172,1.9193347225186816e-05,sensor3__longest_strike_below_mean
+1234,1.8736076485863614e-05,sensor2__ratio_beyond_r_sigma__r_3
+1185,1.86909346809598e-05,sensor3__index_mass_quantile__q_0.1
+888,1.864438712614394e-05,"sensor3__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20)"
+31,1.8053475308703574e-05,"sensor1__fft_coefficient__attr_""imag""__coeff_1"
+1059,1.7125745547038073e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0"
+1116,1.6998773917952322e-05,"sensor1__fft_coefficient__attr_""imag""__coeff_4"
+545,1.6348575654398722e-05,sensor1__fourier_entropy__bins_100
+581,1.6012296216939302e-05,"sensor3__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)"
+469,1.6008619873187105e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4"
+898,1.6003171903371873e-05,sensor2__ratio_beyond_r_sigma__r_2
+600,1.5987570186864535e-05,"sensor2__fft_coefficient__attr_""imag""__coeff_6"
+737,1.59795250746441e-05,"sensor0__agg_autocorrelation__f_agg_""mean""__maxlag_40"
+1034,1.5949047078646312e-05,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var"""
+556,1.5941290440419377e-05,sensor2__ratio_beyond_r_sigma__r_1
+658,1.5940298113671674e-05,"sensor2__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20)"
+1186,1.5932492591269033e-05,sensor0__partial_autocorrelation__lag_7
+492,1.5926365576359847e-05,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2"
+207,1.592219243142882e-05,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max"""
+318,1.59126233779947e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4"
+512,1.588771776196752e-05,sensor2__index_mass_quantile__q_0.7
+452,1.588119445682156e-05,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2"
+358,1.5876387568942046e-05,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_7
+820,1.587592867610008e-05,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_0
+205,1.5853585506099905e-05,"sensor0__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20)"
+693,1.584243758704026e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6"
+178,1.5841473371455078e-05,sensor1__permutation_entropy__dimension_3__tau_1
+630,1.5841292675303148e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4"
+1131,1.582287933993451e-05,sensor2__autocorrelation__lag_3
+426,1.582265753718682e-05,sensor1__ratio_beyond_r_sigma__r_1
+954,1.5822410052329035e-05,sensor0__friedrich_coefficients__coeff_1__m_3__r_30
+1179,1.580560187987354e-05,"sensor3__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max"""
+1030,1.5801511939187612e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4"
+672,1.5766956223662868e-05,"sensor2__linear_trend__attr_""pvalue"""
+487,1.5753281472225773e-05,sensor2__longest_strike_below_mean
+710,1.5744954210762316e-05,"sensor3__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)"
+1187,1.5725498674204628e-05,sensor1__friedrich_coefficients__coeff_0__m_3__r_30
+385,1.572057112672399e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min"""
+1003,1.571549688044989e-05,sensor3__number_crossing_m__m_0
+1227,1.570977481368654e-05,sensor2__count_above_mean
+971,1.5704231891075207e-05,sensor2__index_mass_quantile__q_0.2
+862,1.568760419138799e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4"
+1124,1.5669073420298827e-05,sensor0__ar_coefficient__coeff_5__k_10
+241,1.5619344151123477e-05,sensor0__autocorrelation__lag_1
+1051,1.560920672300789e-05,sensor2__c3__lag_3
+893,1.5589003922118546e-05,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_2
+33,1.5572061381479485e-05,sensor0__sample_entropy
+429,1.555914904565317e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4"
+1087,1.55585099263609e-05,"sensor2__fft_coefficient__attr_""angle""__coeff_4"
+716,1.555650671212357e-05,"sensor0__fft_coefficient__attr_""angle""__coeff_5"
+555,1.553719524816289e-05,sensor1__ar_coefficient__coeff_1__k_10
+126,1.551989723728536e-05,sensor0__count_below__t_0
+931,1.5448571705452898e-05,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_5
+1093,1.544293783639911e-05,sensor2__ar_coefficient__coeff_9__k_10
+1233,1.5430131546241415e-05,sensor0__ar_coefficient__coeff_9__k_10
+189,1.5410978401325408e-05,sensor1__sum_of_reoccurring_values
+576,1.535836553902625e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2"
+1199,1.532168471956203e-05,"sensor3__fft_coefficient__attr_""angle""__coeff_6"
+1246,1.5287514177919773e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0"
+561,1.5146548054571554e-05,sensor1__first_location_of_maximum
+1262,1.5116154553407989e-05,sensor0__index_mass_quantile__q_0.2
+750,1.507744139875484e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6"
+706,1.5077042298897066e-05,sensor1__count_above_mean
+522,1.5053317492516838e-05,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2"
+400,1.5022929071396586e-05,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_1
+643,1.5000287258642895e-05,sensor3__mean_change
+1117,1.4945153509801652e-05,"sensor2__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC"""
+439,1.4868560772872215e-05,sensor3__first_location_of_minimum
+1081,1.469618920881877e-05,sensor0__fourier_entropy__bins_100
+1063,1.455157125619683e-05,"sensor2__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max"""
+911,1.4547497999818186e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6"
+381,1.4547139959156577e-05,sensor2__index_mass_quantile__q_0.8
+1198,1.4405420783116955e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8"
+1286,1.4276368189329763e-05,sensor1__count_above__t_0
+198,1.4047183742015068e-05,sensor2__quantile__q_0.6
+340,1.4032771686552721e-05,"sensor2__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)"
+499,1.398460103775615e-05,sensor1__index_mass_quantile__q_0.9
+1177,1.3948715118387969e-05,sensor2__autocorrelation__lag_5
+1209,1.3735249436705452e-05,"sensor3__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean"""
+969,1.3728837789385993e-05,sensor1__autocorrelation__lag_3
+1125,1.3712329389135288e-05,sensor3__approximate_entropy__m_2__r_0.5
+262,1.3695192763321362e-05,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_0
+409,1.3692299372169973e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2"
+267,1.3690885851931968e-05,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6"
+445,1.3361248828192092e-05,sensor1__lempel_ziv_complexity__bins_100
+1173,1.3359479858125678e-05,"sensor3__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20)"
+739,1.3345357732257139e-05,"sensor2__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20)"
+863,1.333656411798621e-05,"sensor3__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20)"
+726,1.3317661370844028e-05,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0"
+1255,1.3266897604241577e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8"
+463,1.3090070199602782e-05,"sensor2__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20)"
+1296,1.2808732320682057e-05,sensor3__ratio_beyond_r_sigma__r_2.5
+1017,1.2802096142133143e-05,"sensor1__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20)"
+934,1.2018573767143188e-05,"sensor3__fft_coefficient__attr_""abs""__coeff_5"
+49,1.2014829074496256e-05,"sensor1__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean"""
+297,1.2013182148885817e-05,"sensor2__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)"
+1230,1.2008922967538298e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var"""
+784,1.2008002460526658e-05,sensor2__approximate_entropy__m_2__r_0.1
+1140,1.2008002460526658e-05,sensor3__number_peaks__n_3
+663,1.2007082094621462e-05,"sensor2__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20)"
+464,1.2004517319264124e-05,"sensor2__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)"
+1294,1.1998288215493375e-05,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0"
+987,1.199772538635404e-05,sensor2__index_mass_quantile__q_0.3
+531,1.199301806823652e-05,"sensor3__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min"""
+341,1.1984783413231894e-05,sensor2__index_mass_quantile__q_0.9
+939,1.1921758880488264e-05,"sensor3__fft_coefficient__attr_""angle""__coeff_2"
+679,1.0702143214658669e-05,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var"""
+925,1.0702030119393923e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4"
+312,1.0685543821280922e-05,sensor1__number_cwt_peaks__n_1
+935,1.0685543821280922e-05,sensor2__ar_coefficient__coeff_4__k_10
+1210,1.0683176681905056e-05,sensor1__ratio_beyond_r_sigma__r_2.5
+1188,1.0682971784104237e-05,"sensor2__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20)"
+1119,1.0677432278817084e-05,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6"
+960,1.0675109649858319e-05,sensor0__fourier_entropy__bins_3
+1142,1.067115225454434e-05,"sensor3__fft_coefficient__attr_""angle""__coeff_3"
+869,1.0669138893225286e-05,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2"
+1228,1.0666370484984738e-05,"sensor2__fft_coefficient__attr_""angle""__coeff_7"
+1293,1.0665145080438554e-05,sensor0__autocorrelation__lag_6
+206,1.0658257422749158e-05,sensor0__permutation_entropy__dimension_5__tau_1
+208,1.0657135832562425e-05,sensor1__approximate_entropy__m_2__r_0.9
+765,1.0653140811761681e-05,sensor0__fourier_entropy__bins_10
+910,1.0649566178354423e-05,sensor2__ar_coefficient__coeff_5__k_10
+115,1.0325889476772317e-05,"sensor1__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20)"
+957,8.010400577554196e-06,sensor1__ratio_beyond_r_sigma__r_1.5
+637,8.007214639354284e-06,sensor3__fourier_entropy__bins_2
+496,8.005334973684438e-06,sensor2__permutation_entropy__dimension_5__tau_1
+690,8.002612941724119e-06,"sensor2__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20)"
+917,8.001854169918966e-06,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2"
+894,8.001156839911743e-06,"sensor1__fft_coefficient__attr_""imag""__coeff_6"
+1114,7.998858810328917e-06,sensor0__index_mass_quantile__q_0.4
+1174,7.993723659221484e-06,"sensor2__fft_coefficient__attr_""abs""__coeff_3"
+485,7.991200593003515e-06,sensor3__quantile__q_0.7
+97,7.989106893389648e-06,sensor0__partial_autocorrelation__lag_2
+747,7.989106893389648e-06,sensor3__large_standard_deviation__r_0.25
+584,7.988862445270794e-06,"sensor3__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)"
+246,7.949055550085026e-06,sensor3__ratio_beyond_r_sigma__r_0.5
+681,7.943278113423218e-06,"sensor2__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20)"
+1038,7.940133905821366e-06,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max"""
+733,7.93952970362896e-06,"sensor3__fft_coefficient__attr_""real""__coeff_6"
+161,7.794497955688196e-06,sensor1__ratio_value_number_to_time_series_length
+1022,6.704668134593582e-06,"sensor2__agg_autocorrelation__f_agg_""median""__maxlag_40"
+958,6.175478095945991e-06,"sensor2__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20)"
+776,5.293728913453331e-06,"sensor3__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)"
+407,5.2757078280801515e-06,sensor0__percentage_of_reoccurring_datapoints_to_all_datapoints
+231,5.264785247404795e-06,sensor3__autocorrelation__lag_4
+628,5.257031711002903e-06,"sensor0__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20)"
+858,4.679789854457531e-06,"sensor3__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20)"
+773,3.928812304414596e-06,"sensor2__fft_coefficient__attr_""imag""__coeff_2"
+647,2.6281964662508515e-06,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4"
+480,2.6187154860384033e-06,sensor0__friedrich_coefficients__coeff_2__m_3__r_30
+339,1.7247965809412803e-06,"sensor1__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)"
+524,0.0,sensor0__large_standard_deviation__r_0.30000000000000004
+410,0.0,sensor1__number_crossing_m__m_0
+66,0.0,sensor0__spkt_welch_density__coeff_8
+1219,0.0,sensor0__quantile__q_0.6
+1220,0.0,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4"
+1221,0.0,sensor1__ar_coefficient__coeff_7__k_10
+228,0.0,"sensor0__fft_coefficient__attr_""real""__coeff_2"
+873,0.0,"sensor3__fft_coefficient__attr_""angle""__coeff_0"
+408,0.0,sensor0__percentage_of_reoccurring_values_to_all_values
+65,0.0,"sensor1__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)"
+1226,0.0,sensor2__count_below_mean
+673,0.0,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0"
+164,0.0,"sensor0__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)"
+1229,0.0,"sensor3__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20)"
+680,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6"
+1231,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0"
+1232,0.0,"sensor3__linear_trend__attr_""rvalue"""
+861,0.0,sensor3__index_mass_quantile__q_0.3
+859,0.0,sensor1__large_standard_deviation__r_0.2
+1235,0.0,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0"
+683,0.0,"sensor3__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)"
+1237,0.0,sensor2__autocorrelation__lag_8
+63,0.0,"sensor0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min"""
+172,0.0,sensor0__has_duplicate_max
+404,0.0,"sensor1__fft_coefficient__attr_""abs""__coeff_7"
+685,0.0,sensor2__permutation_entropy__dimension_6__tau_1
+854,0.0,"sensor0__fft_coefficient__attr_""angle""__coeff_4"
+399,0.0,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2"
+686,0.0,sensor2__number_cwt_peaks__n_1
+881,0.0,"sensor0__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20)"
+301,0.0,"sensor0__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20)"
+1064,0.0,"sensor3__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC"""
+1214,0.0,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0"
+915,0.0,sensor3__sample_entropy
+642,0.0,"sensor0__fft_coefficient__attr_""angle""__coeff_0"
+644,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0"
+428,0.0,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2"
+159,0.0,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean"""
+1192,0.0,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4"
+906,0.0,sensor2__sample_entropy
+904,0.0,sensor3__value_count__value_0
+901,0.0,sensor0__ar_coefficient__coeff_8__k_10
+424,0.0,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0"
+1197,0.0,"sensor2__fft_coefficient__attr_""real""__coeff_5"
+162,0.0,sensor1__percentage_of_reoccurring_datapoints_to_all_datapoints
+897,0.0,sensor2__value_count__value_0
+423,0.0,"sensor1__fft_coefficient__attr_""abs""__coeff_8"
+896,0.0,"sensor3__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20)"
+422,0.0,sensor1__index_mass_quantile__q_0.2
+654,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4"
+300,0.0,sensor2__median
+656,0.0,"sensor1__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4"
+657,0.0,sensor1__cid_ce__normalize_True
+163,0.0,sensor1__percentage_of_reoccurring_values_to_all_values
+659,0.0,sensor0__large_standard_deviation__r_0.25
+884,0.0,sensor0__c3__lag_2
+883,0.0,"sensor0__fft_coefficient__attr_""angle""__coeff_1"
+1211,0.0,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6"
+415,0.0,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_6
+1213,0.0,"sensor3__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20)"
+224,0.0,sensor0__number_peaks__n_3
+688,0.0,sensor0__number_cwt_peaks__n_1
+846,0.0,sensor2__large_standard_deviation__r_0.30000000000000004
+1248,0.0,sensor3__range_count__max_1000000000000.0__min_0
+1279,0.0,sensor0__value_count__value_0
+197,0.0,"sensor1__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20)"
+795,0.0,sensor2__lempel_ziv_complexity__bins_10
+323,0.0,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6"
+367,0.0,sensor0__has_duplicate
+729,0.0,sensor1__fourier_entropy__bins_10
+731,0.0,sensor0__ratio_beyond_r_sigma__r_3
+187,0.0,sensor0__index_mass_quantile__q_0.8
+738,0.0,"sensor3__fft_coefficient__attr_""abs""__coeff_2"
+1288,0.0,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6"
+1289,0.0,sensor3__number_cwt_peaks__n_5
+195,0.0,sensor0__lempel_ziv_complexity__bins_3
+741,0.0,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_4
+742,0.0,sensor3__lempel_ziv_complexity__bins_100
+772,0.0,sensor0__first_location_of_maximum
+771,0.0,"sensor2__fft_coefficient__attr_""imag""__coeff_5"
+190,0.0,sensor1__sum_of_reoccurring_data_points
+748,0.0,"sensor3__augmented_dickey_fuller__attr_""pvalue""__autolag_""AIC"""
+766,0.0,"sensor0__fft_coefficient__attr_""angle""__coeff_6"
+352,0.0,sensor1__large_standard_deviation__r_0.35000000000000003
+754,0.0,sensor3__permutation_entropy__dimension_6__tau_1
+1300,0.0,"sensor1__fft_coefficient__attr_""angle""__coeff_10"
+349,0.0,"sensor2__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)"
+762,0.0,"sensor2__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20)"
+346,0.0,sensor0__approximate_entropy__m_2__r_0.7
+338,0.0,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0"
+761,0.0,sensor3__index_mass_quantile__q_0.4
+798,0.0,sensor2__permutation_entropy__dimension_7__tau_1
+372,0.0,sensor1__index_mass_quantile__q_0.4
+801,0.0,"sensor3__agg_autocorrelation__f_agg_""median""__maxlag_40"
+1261,0.0,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_1
+1249,0.0,sensor3__count_above__t_0
+1250,0.0,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean"""
+1251,0.0,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_6
+1252,0.0,"sensor3__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6"
+844,0.0,sensor2__lempel_ziv_complexity__bins_100
+843,0.0,"sensor0__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20)"
+842,0.0,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean"""
+835,0.0,sensor3__lempel_ziv_complexity__bins_10
+1257,0.0,"sensor1__fft_coefficient__attr_""real""__coeff_6"
+834,0.0,sensor2__symmetry_looking__r_0.05
+833,0.0,sensor1__large_standard_deviation__r_0.25
+59,0.0,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min"""
+822,0.0,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var"""
+1275,0.0,sensor3__c3__lag_2
+819,0.0,sensor1__number_cwt_peaks__n_5
+1264,0.0,"sensor3__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6"
+814,0.0,sensor3__autocorrelation__lag_5
+314,0.0,sensor1__symmetry_looking__r_0.15000000000000002
+813,0.0,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2"
+182,0.0,sensor0__approximate_entropy__m_2__r_0.1
+1269,0.0,"sensor3__agg_autocorrelation__f_agg_""mean""__maxlag_40"
+1270,0.0,sensor1__longest_strike_below_mean
+1271,0.0,sensor3__ar_coefficient__coeff_9__k_10
+321,0.0,"sensor1__agg_autocorrelation__f_agg_""median""__maxlag_40"
+810,0.0,"sensor3__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20)"
+203,0.0,sensor3__minimum
+638,0.0,sensor3__autocorrelation__lag_1
+919,0.0,sensor0__ar_coefficient__coeff_3__k_10
+430,0.0,sensor3__ratio_beyond_r_sigma__r_2
+997,0.0,sensor1__index_mass_quantile__q_0.7
+1095,0.0,"sensor1__fft_coefficient__attr_""imag""__coeff_5"
+1096,0.0,sensor0__ar_coefficient__coeff_4__k_10
+101,0.0,"sensor1__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20)"
+558,0.0,"sensor2__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)"
+1020,0.0,"sensor2__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20)"
+1019,0.0,sensor3__fourier_entropy__bins_3
+562,0.0,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2"
+281,0.0,"sensor0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6"
+259,0.0,sensor0__approximate_entropy__m_2__r_0.9
+1015,0.0,sensor3__ratio_beyond_r_sigma__r_1.5
+1013,0.0,sensor0__fourier_entropy__bins_2
+1106,0.0,sensor3__lempel_ziv_complexity__bins_5
+1107,0.0,sensor1__fourier_entropy__bins_2
+1108,0.0,sensor0__index_mass_quantile__q_0.3
+481,0.0,sensor0__permutation_entropy__dimension_7__tau_1
+98,0.0,sensor1__has_duplicate
+1010,0.0,sensor3__count_above_mean
+1008,0.0,"sensor3__fft_aggregated__aggtype_""skew"""
+1113,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6"
+1007,0.0,sensor1__partial_autocorrelation__lag_7
+1006,0.0,"sensor1__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC"""
+1005,0.0,sensor3__number_cwt_peaks__n_1
+566,0.0,"sensor2__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4"
+124,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2"
+568,0.0,sensor2__energy_ratio_by_chunks__num_segments_10__segment_focus_4
+570,0.0,"sensor0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4"
+999,0.0,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4"
+1027,0.0,sensor2__max_langevin_fixed_point__m_3__r_30
+1028,0.0,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0"
+553,0.0,sensor0__number_crossing_m__m_0
+1043,0.0,"sensor3__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20)"
+1061,0.0,sensor2__large_standard_deviation__r_0.2
+525,0.0,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4"
+1067,0.0,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean"""
+1054,0.0,sensor1__ratio_beyond_r_sigma__r_0.5
+537,0.0,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_2
+519,0.0,sensor3__last_location_of_maximum
+269,0.0,sensor3__partial_autocorrelation__lag_3
+1046,0.0,sensor1__symmetry_looking__r_0.05
+514,0.0,sensor0__symmetry_looking__r_0.05
+541,0.0,sensor3__symmetry_looking__r_0.05
+1044,0.0,"sensor3__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)"
+274,0.0,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0"
+1078,0.0,sensor2__spkt_welch_density__coeff_5
+503,0.0,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4"
+544,0.0,sensor3__binned_entropy__max_bins_10
+112,0.0,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_7
+1039,0.0,sensor2__fourier_entropy__bins_5
+1036,0.0,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var"""
+1083,0.0,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean"""
+1084,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2"
+275,0.0,"sensor0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6"
+1086,0.0,sensor0__partial_autocorrelation__lag_6
+1033,0.0,"sensor2__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20)"
+755,0.0,"sensor2__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20)"
+504,0.0,sensor1__ar_coefficient__coeff_0__k_10
+552,0.0,"sensor1__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2"
+571,0.0,sensor0__autocorrelation__lag_2
+994,0.0,sensor2__ratio_beyond_r_sigma__r_1.5
+1183,0.0,sensor2__number_peaks__n_3
+993,0.0,sensor0__lempel_ziv_complexity__bins_100
+608,0.0,"sensor3__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max"""
+451,0.0,sensor0__symmetry_looking__r_0.1
+1158,0.0,"sensor1__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20)"
+1159,0.0,sensor1__ar_coefficient__coeff_2__k_10
+945,0.0,sensor1__energy_ratio_by_chunks__num_segments_10__segment_focus_7
+1161,0.0,sensor3__ratio_beyond_r_sigma__r_3
+1162,0.0,sensor1__fourier_entropy__bins_3
+1163,0.0,sensor2__ar_coefficient__coeff_3__k_10
+289,0.0,sensor1__permutation_entropy__dimension_7__tau_1
+447,0.0,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min"""
+1166,0.0,"sensor2__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4"
+612,0.0,"sensor3__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2"
+942,0.0,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2"
+441,0.0,sensor1__number_peaks__n_3
+613,0.0,"sensor2__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)"
+437,0.0,sensor3__last_location_of_minimum
+141,0.0,sensor1__approximate_entropy__m_2__r_0.1
+937,0.0,sensor2__index_mass_quantile__q_0.4
+616,0.0,sensor1__lempel_ziv_complexity__bins_3
+621,0.0,sensor0__index_mass_quantile__q_0.1
+1176,0.0,"sensor2__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max"""
+924,0.0,sensor3__symmetry_looking__r_0.1
+86,0.0,sensor1__symmetry_looking__r_0.1
+632,0.0,sensor0__index_mass_quantile__q_0.6
+435,0.0,"sensor1__agg_autocorrelation__f_agg_""mean""__maxlag_40"
+635,0.0,sensor1__number_peaks__n_5
+1182,0.0,sensor2__approximate_entropy__m_2__r_0.5
+951,0.0,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4"
+1154,0.0,"sensor2__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4"
+456,0.0,"sensor3__fft_coefficient__attr_""real""__coeff_0"
+974,0.0,sensor1__ar_coefficient__coeff_8__k_10
+575,0.0,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2"
+579,0.0,sensor0__energy_ratio_by_chunks__num_segments_10__segment_focus_1
+986,0.0,sensor2__ratio_beyond_r_sigma__r_2.5
+470,0.0,sensor3__energy_ratio_by_chunks__num_segments_10__segment_focus_8
+985,0.0,sensor2__spkt_welch_density__coeff_2
+981,0.0,"sensor2__fft_coefficient__attr_""angle""__coeff_6"
+977,0.0,sensor3__benford_correlation
+976,0.0,"sensor3__fft_coefficient__attr_""real""__coeff_2"
+286,0.0,"sensor0__fft_coefficient__attr_""abs""__coeff_10"
+1135,0.0,sensor2__skewness
+591,0.0,sensor0__number_peaks__n_5
+1137,0.0,"sensor0__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC"""
+288,0.0,sensor0__number_cwt_peaks__n_5
+952,0.0,sensor0__last_location_of_maximum
+592,0.0,"sensor2__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0"
+593,0.0,"sensor1__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max"""
+251,0.0,"sensor1__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6"
+1143,0.0,"sensor1__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0"
+1144,0.0,sensor1__friedrich_coefficients__coeff_3__m_3__r_30
+597,0.0,sensor1__autocorrelation__lag_6
+248,0.0,sensor0__lempel_ziv_complexity__bins_10
+1147,0.0,sensor1__ratio_beyond_r_sigma__r_3
+961,0.0,"sensor0__linear_trend__attr_""pvalue"""
+959,0.0,"sensor3__fft_coefficient__attr_""real""__coeff_5"
+603,0.0,sensor3__large_standard_deviation__r_0.30000000000000004
+460,0.0,"sensor0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min"""
+756,0.0,"sensor0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6"
